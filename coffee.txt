@@ -1,5 +1,5 @@
-Rich: latte, hot
-Dezel: matcha, iced
+Rich: 
+Dezel: 
 Mossman:
-Parker: flat white
+Parker: 
 
